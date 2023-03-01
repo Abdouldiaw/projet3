@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(130, 133, 133);
+}
+.travail{
+    align-items: center;
+    color: rgb(25, 24, 23);
+    text-align: center;
+    left: 50%;
+    top: 100px;
+  }
+ 
+  .back{
+      position: relative;
+      width:110% ;
+      height: 220px;
+      flex-grow: 1;
+      top: 180px;
+      background-color: rgb(255, 89, 0);  
+  }
+  .back img{
+    margin: 1rem;
+    flex-direction: column;
+  justify-content: center;
+  left: 400px;
+  
+  }
+  
+  .img1{
+  position: relative;
+  top: -160px;
+  left: 80px;
+          }
+          .button{
+            position: relative;
+           align-items: center;
+           height: 0px;
+           margin: 15px;
+           top: -150px;
+           left: 210px;
+          }
+  
+          .img4{
+              position: relative;
+              top: -170px;
+              margin-top: 1rem;
+              left: 80px;
+          }
+    @media screen and (max-width: 375px){
+      .back {
+             width: 400px;
+      }
+      .button{
+        left: 50px;
+        background-color: brown;
+      }
+  
+  .titre{
+    align-items: center;
+  }
+}

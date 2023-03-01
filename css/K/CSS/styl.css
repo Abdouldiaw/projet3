@@ -1,0 +1,60 @@
+<!--La classe bg-light ajoute un fond blanche à l'élément-->
+<div class="col bg-light"></div>
+
+<div class="col-2">
+<ol>
+    <li>Capacité d'apprentissage<br></li>
+    <li>Collaboration</li>
+    <li>Responsabilité</li>
+    <li>Prise de decision</li>
+    <li>Gestion du temps</li>
+</ol>
+</div>
+
+
+
+<div class="titre">
+<h1>hello je suis Abdoul Diaw Developpeur front-end</h1>
+<h1>PRESENTATION</h1>
+<OL>
+    <body>
+        <div class="container">
+            <h1>presentation</h1>
+            <div class="row">
+                <!--La class bg-info ajoute un fond bleu à l'element-->
+                <div class="col bg-light"><p>1.Capacité d'apprentissage </p>
+                <p>2.Collaboration</p>
+            <p>3.Responsabilité</p>
+        <p>4.Prise de decision</p>
+    <p>5.Gestion de temps</p></div>
+                <!--La classe bg-warning ajoute un fond jaune à l'élément-->
+                <div class="col bg-light"><h1><p>Triforce!</h1></p>
+               A l'ecoute, je suis FORCE de position, j'aime chercher des solutions solution ainsi rendre  services. Passioné par l'apprentissage et la decouverte intellectuelle j'ai developpé une force de travaille afin de toujours progresser au quotidien.FORCE tranquille j'ai toujour su collaborer et pleinnement m'integrer au sein du collectif</p></div>
+               <div class="container">
+
+               <pre><mark><p>MARS-JUEILLET 2020</p></mark></pre>
+
+               <div class="col">
+               *{
+                padding:0;
+                margin:0;
+                box-sizing: border-box;
+                font-family: century;
+            }
+            header{
+                background-image: url(../image/art.jpg);
+                height: 100vh;
+                background-size: cover;
+                background-position:center;
+                 color: rgb(194, 73, 73);
+                 align-items: center;
+            }
+            nav{
+                                                                <h1>LANGAGES</h1>
+                                                                <div class="col-5">
+                                                                <div class="col-2 text-right">
+                                                            <li class="w-100 bg-success mt-2 p-2">HTML</li>
+                                                            <li class="w-80 bg-success mt-2 p-2">CSS</li>
+                                                            <li class="w-80 bg-success mt-2 p-2">JAVA SCRIPT</li>
+                                                            <li class="w-80 bg-success mt-2 p-2">PHP</li>
+               
