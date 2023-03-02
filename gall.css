@@ -1,5 +1,9 @@
+*{
+  padding: 0px;
+}
 body{
     background-color: rgb(130, 133, 133);
+    padding: 0px;
 }
 .travail{
     align-items: center;
@@ -37,6 +41,7 @@ body{
            margin: 15px;
            top: -150px;
            left: 210px;
+           background-color: aqua;
           }
   
           .img4{
